@@ -1,11 +1,3 @@
-<head>
-  <style>
-    body {
-      font-family: 'Roboto', sans-serif;
-    }
-  </style>
-</head>
-
 
 
 <div align="justify">
@@ -77,3 +69,8 @@
 
 </details>
 </div>
+ <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+    }
+  </style>
