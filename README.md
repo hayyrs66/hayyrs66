@@ -1,7 +1,4 @@
 
-<!-- Profile -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayyrs66&layout=compact)
-
 <p align="left"><strong><samp style="font-family: Roboto, sans-serif;">「</samp></strong></p>
   <p align="center">
     <samp>
@@ -19,3 +16,5 @@
     </samp>
   </p>
 <p align="right"><strong><samp style="font-family: Roboto, sans-serif;">」</samp></strong></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayyrs66&layout=compact)
