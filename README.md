@@ -7,7 +7,7 @@
   <p align="center">
     <samp>
       <b>
-        Hello There
+        Hi Coders
       <br>
         I'm Ricardo, a Student. Passionate about code and lover of Linux
       </b>
@@ -15,7 +15,7 @@
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=Welcome+to+my+GitHub+profile!">
       <br>
       <b>
-        ~ Rayhan Kafi Pratama ~
+        ~ Слава Україні ~
       </b>
     </samp>
   </p>
