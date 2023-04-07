@@ -1,36 +1,40 @@
-<h1 align="center">
-  <img src="https://i.imgur.com/tfwvTcW.gif" width="30px"> Bienvenido a mi Repositorio <img src="https://i.imgur.com/tfwvTcW.gif" width="30px">
-</h1>
+<h1 align="center">Bienvenido a mi Repositorio</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/USERNAME/REPO_NAME.svg?style=for-the-badge" alt="GitHub stars" />
-  <img src="https://img.shields.io/github/forks/USERNAME/REPO_NAME.svg?style=for-the-badge" alt="GitHub forks" />
-  <img src="https://img.shields.io/github/issues/USERNAME/REPO_NAME.svg?style=for-the-badge" alt="GitHub issues" />
-  <img src="https://img.shields.io/github/license/USERNAME/REPO_NAME.svg?style=for-the-badge" alt="GitHub license" />
-</p>
-
-<p align="center">
-  ¡Gracias por visitar mi repositorio! Este es un lugar donde comparto mis proyectos y contribuciones a la comunidad. Siéntete libre de explorar y clonar cualquier proyecto que te guste.
+  ¡Gracias por visitar mi repositorio! Aquí encontrarás una variedad de proyectos que he creado y contribuciones a la comunidad. Siéntete libre de explorar, clonar y contribuir a cualquiera de mis proyectos.
 </p>
 
 <p align="center">
   <img src="https://i.imgur.com/Nj7t8eE.gif" width="250px" />
 </p>
 
----
+## Proyectos Destacados
 
-<p align="center">
-  <img src="https://i.imgur.com/5CmZ5jK.gif" width="40px"> Aquí hay algunos proyectos en los que estoy trabajando actualmente <img src="https://i.imgur.com/5CmZ5jK.gif" width="40px">
-</p>
+Aquí hay algunos de mis proyectos más destacados:
 
 | Proyecto | Descripción |
 | --- | --- |
-| [PROYECTO 1](https://github.com/USERNAME/PROYECTO_1) | Descripción del proyecto 1 |
-| [PROYECTO 2](https://github.com/USERNAME/PROYECTO_2) | Descripción del proyecto 2 |
-| [PROYECTO 3](https://github.com/USERNAME/PROYECTO_3) | Descripción del proyecto 3 |
+| [Proyecto 1](https://github.com/USERNAME/PROYECTO_1) | Descripción del proyecto 1 |
+| [Proyecto 2](https://github.com/USERNAME/PROYECTO_2) | Descripción del proyecto 2 |
+| [Proyecto 3](https://github.com/USERNAME/PROYECTO_3) | Descripción del proyecto 3 |
 
----
+## Contribuciones
 
-<p align="center">
-  <img src="https://i.imgur.com/MIaRlKw.gif" width="30px"> ¡Gracias por visitar mi repositorio! <img src="https://i.imgur.com/MIaRlKw.gif" width="30px">
-</p>
+Aquí hay algunas de mis contribuciones a otros proyectos:
+
+| Proyecto | Descripción |
+| --- | --- |
+| [Proyecto de otro usuario 1](https://github.com/OTRO_USUARIO/PROYECTO_1) | Descripción del proyecto de otro usuario 1 |
+| [Proyecto de otro usuario 2](https://github.com/OTRO_USUARIO/PROYECTO_2) | Descripción del proyecto de otro usuario 2 |
+| [Proyecto de otro usuario 3](https://github.com/OTRO_USUARIO/PROYECTO_3) | Descripción del proyecto de otro usuario 3 |
+
+## Contacto
+
+Si tienes alguna pregunta o comentario, no dudes en contactarme por correo electrónico o por Twitter:
+
+- Correo electrónico: EMAIL@EJEMPLO.COM
+- Twitter: [@NOMBRE_USUARIO](https://twitter.com/NOMBRE_USUARIO)
+
+## Licencia
+
+Este repositorio está bajo la Licencia [MIT](LICENSE).
