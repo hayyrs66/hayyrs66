@@ -1,24 +1,21 @@
-<!-- Título -->
-<h1 align="center">¡Bienvenido a mi Repositorio!</h1>
+<!-- Título animado -->
+<h1 align="center">
+  <img src="https://i.imgur.com/xzmjhmh.gif" alt="Logo animado" width="50" height="50">
+  <span>Ana's Repository</span>
+  <img src="https://i.imgur.com/xzmjhmh.gif" alt="Logo animado" width="50" height="50">
+</h1>
 
 <!-- Descripción -->
 <p align="center">
-  <samp>
-    Hola, soy [TU NOMBRE]. Me gusta [COSAS QUE TE GUSTAN]. Soy un desarrollador de software apasionado por crear programas bellos y estéticos. En mi tiempo libre, disfruto [ACTIVIDADES QUE DISFRUTAS].
-  </samp>
-</p>
-
-<!-- Animación de escritura -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
+  ¡Bienvenidos a mi repositorio! Soy Ana, una desarrolladora de software apasionada por crear aplicaciones bellas y estéticas. Aquí encontrarás algunos de mis proyectos personales y contribuciones a la comunidad. Siéntete libre de explorar, clonar y contribuir a cualquiera de mis proyectos.
 </p>
 
 <!-- Contacto -->
 <p align="center">
   <samp>
-    [<a href="[LINK DE TWITTER]">Twitter</a>]
-    [<a href="[LINK DE INSTAGRAM]">Instagram</a>]
-    [<a href="[CORREO ELECTRÓNICO]">Correo Electrónico</a>]
+    [<a href="https://twitter.com/usuario">Twitter</a>]
+    [<a href="https://www.linkedin.com/in/usuario/">LinkedIn</a>]
+    [<a href="mailto:correo@ejemplo.com">E-mail</a>]
   </samp>
 </p>
 
