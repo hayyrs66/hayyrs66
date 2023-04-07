@@ -18,9 +18,10 @@
 <p align="right"><strong><samp style="font-family: Roboto, sans-serif;">」</samp></strong></p>
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayyrs66&layout=compact&theme=omni&custom_title=My%20Languages&bg_color=0D1117&title_color=F787DAFF&text_color=FFFFFF&border_color=F787DAFF">
-  <img height="170" align="right" src="https://github-readme-stats.vercel.app/api?username=hayyrs66&show_icons=true&count_private=true&hide=stars&bg_color=0D1117&title_color=F787DAFF&icon_color=F787DAFF&text_color=FFFFFF&custom_title=My%20GitHub%20Stats">
+  <img height="150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayyrs66&layout=compact&theme=omni&custom_title=My%20Languages&bg_color=0D1117&title_color=F787DAFF&text_color=FFFFFF&border_color=F787DAFF">
+  <img height="150" align="right" src="https://github-readme-stats.vercel.app/api?username=hayyrs66&show_icons=true&count_private=true&hide=stars&bg_color=0D1117&title_color=F787DAFF&icon_color=F787DAFF&text_color=FFFFFF&custom_title=My%20GitHub%20Stats">
 </div>
+
 
 
 
