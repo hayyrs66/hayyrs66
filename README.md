@@ -1,8 +1,7 @@
-
 <!-- Profile -->
-<p align="left"><strong><samp style="font-family: Roboto, sans-serif;">「</samp></strong></p>
+<p align="left"><strong><samp style="font-family: Arial, Helvetica, sans-serif;">「</samp></strong></p>
   <p align="center">
-    <samp style="font-family: Roboto, sans-serif;">
+    <samp style="font-family: Arial, Helvetica, sans-serif;">
       <b>
         Hi Coders
       <br>
@@ -16,4 +15,4 @@
       </b>
     </samp>
   </p>
-<p align="right"><strong><samp style="font-family: Roboto, sans-serif;">」</samp></strong></p>
+<p align="right"><strong><samp style="font-family: Arial, Helvetica, sans-serif;">」</samp></strong></p>
