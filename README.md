@@ -1,40 +1,40 @@
-<h1 align="center">Bienvenido a mi Repositorio</h1>
+<!-- Título -->
+<h1 align="center">¡Bienvenido a mi Repositorio!</h1>
 
+<!-- Descripción -->
 <p align="center">
-  ¡Gracias por visitar mi repositorio! Aquí encontrarás una variedad de proyectos que he creado y contribuciones a la comunidad. Siéntete libre de explorar, clonar y contribuir a cualquiera de mis proyectos.
+  <samp>
+    Hola, soy [TU NOMBRE]. Me gusta [COSAS QUE TE GUSTAN]. Soy un desarrollador de software apasionado por crear programas bellos y estéticos. En mi tiempo libre, disfruto [ACTIVIDADES QUE DISFRUTAS].
+  </samp>
 </p>
 
+<!-- Animación de escritura -->
 <p align="center">
-  <img src="https://i.imgur.com/Nj7t8eE.gif" width="250px" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
 </p>
 
-## Proyectos Destacados
+<!-- Contacto -->
+<p align="center">
+  <samp>
+    [<a href="[LINK DE TWITTER]">Twitter</a>]
+    [<a href="[LINK DE INSTAGRAM]">Instagram</a>]
+    [<a href="[CORREO ELECTRÓNICO]">Correo Electrónico</a>]
+  </samp>
+</p>
 
-Aquí hay algunos de mis proyectos más destacados:
+<!-- Estadísticas -->
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=[TU NOMBRE DE USUARIO]&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU NOMBRE DE USUARIO]&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
+    </tr>
+  </table>
+</div>
 
-| Proyecto | Descripción |
-| --- | --- |
-| [Proyecto 1](https://github.com/USERNAME/PROYECTO_1) | Descripción del proyecto 1 |
-| [Proyecto 2](https://github.com/USERNAME/PROYECTO_2) | Descripción del proyecto 2 |
-| [Proyecto 3](https://github.com/USERNAME/PROYECTO_3) | Descripción del proyecto 3 |
-
-## Contribuciones
-
-Aquí hay algunas de mis contribuciones a otros proyectos:
-
-| Proyecto | Descripción |
-| --- | --- |
-| [Proyecto de otro usuario 1](https://github.com/OTRO_USUARIO/PROYECTO_1) | Descripción del proyecto de otro usuario 1 |
-| [Proyecto de otro usuario 2](https://github.com/OTRO_USUARIO/PROYECTO_2) | Descripción del proyecto de otro usuario 2 |
-| [Proyecto de otro usuario 3](https://github.com/OTRO_USUARIO/PROYECTO_3) | Descripción del proyecto de otro usuario 3 |
-
-## Contacto
-
-Si tienes alguna pregunta o comentario, no dudes en contactarme por correo electrónico o por Twitter:
-
-- Correo electrónico: EMAIL@EJEMPLO.COM
-- Twitter: [@NOMBRE_USUARIO](https://twitter.com/NOMBRE_USUARIO)
-
-## Licencia
-
-Este repositorio está bajo la Licencia [MIT](LICENSE).
+<!-- Licencia -->
+<p align="center">
+  <samp>
+    Este repositorio está bajo la Licencia [MIT](LICENSE).
+  </samp>
+</p>
