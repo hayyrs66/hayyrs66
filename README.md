@@ -1,16 +1,8 @@
-<style>
-body {
-  font-family: 'Roboto', sans-serif;
-}
-  
-  </style>
-
 <div align="justify">
-
 <!-- Profile -->
-<p align="left"><strong><samp>「</samp></strong></p>
+<p align="left"><strong><samp style="font-family: Roboto, sans-serif;">「</samp></strong></p>
   <p align="center">
-    <samp>
+    <samp style="font-family: Roboto, sans-serif;">
       <b>
         Hi Coders
       <br>
@@ -24,5 +16,4 @@ body {
       </b>
     </samp>
   </p>
-<p align="right"><strong><samp>」</samp></strong></p>
-  
+<p align="right"><strong><samp style="font-family: Roboto, sans-serif;">」</samp></strong></p>
