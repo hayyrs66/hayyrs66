@@ -3,7 +3,7 @@
   <p align="center">
     <samp>
       <b>
-        Hi Coders ツ
+        Hi Coders
       <br>
         I'm Ricardo, a Student. Passionate about code and linux lover.
       </b>
@@ -11,7 +11,7 @@
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=F787DAFF&center=true&width=410&height=45&lines=Welcome+to+my+GitHub+profile!">
       <br>
       <b>
-        Слава Україні 
+        ┏ Слава Україні ┛
       </b>
     </samp>
   </p>
