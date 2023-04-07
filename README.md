@@ -1,9 +1,8 @@
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
-</style>
-
 
 <div align="justify">
+ <style>
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+</style>
 <!-- Profile -->
 <p align="left"><strong><samp style="font-family: Roboto, sans-serif;">「</samp></strong></p>
   <p align="center">
