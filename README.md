@@ -18,9 +18,13 @@
 <p align="right"><strong><samp style="font-family: Roboto, sans-serif;">」</samp></strong></p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayyrs66&layout=compact&theme=omni&custom_title=My%20Languages&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=F787DAFF)
+<p align="center">
+  <a href="https://github.com/hayyrs66">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayyrs66&layout=compact&theme=omni&custom_title=My%20Languages&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=F787DAFF" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hayyrs66&show_icons=true&count_private=true&hide=stars&bg_color=0D1117&title_color=F787DAFF&icon_color=F787DAFF&text_color=FFFFFF&custom_title=My%20GitHub%20Stats" />
+  </a>
+</p>
 
-![Repos](https://github-readme-stats.vercel.app/api?username=hayyrs66&show_icons=true&count_private=true&hide=stars&bg_color=0D1117&title_color=F787DAFF&icon_color=F787DAFF&text_color=FFFFFF&custom_title=My%20GitHub%20Stats) 
 
 
 
