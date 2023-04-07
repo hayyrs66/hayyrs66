@@ -1,37 +1,10 @@
-<!-- Título animado -->
-<h1 align="center">
-  <img src="https://i.imgur.com/xzmjhmh.gif" alt="Logo animado" width="50" height="50">
-  <span>Ana's Repository</span>
-  <img src="https://i.imgur.com/xzmjhmh.gif" alt="Logo animado" width="50" height="50">
-</h1>
+<details>
+<summary><b><samp>STATS</samp></b></summary>
 
-<!-- Descripción -->
-<p align="center">
-  ¡Bienvenidos a mi repositorio! Soy Ana, una desarrolladora de software apasionada por crear aplicaciones bellas y estéticas. Aquí encontrarás algunos de mis proyectos personales y contribuciones a la comunidad. Siéntete libre de explorar, clonar y contribuir a cualquiera de mis proyectos.
-</p>
-
-<!-- Contacto -->
-<p align="center">
-  <samp>
-    [<a href="https://twitter.com/usuario">Twitter</a>]
-    [<a href="https://www.linkedin.com/in/usuario/">LinkedIn</a>]
-    [<a href="mailto:correo@ejemplo.com">E-mail</a>]
-  </samp>
-</p>
-
-<!-- Estadísticas -->
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=[TU NOMBRE DE USUARIO]&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
-      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU NOMBRE DE USUARIO]&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
-    </tr>
-  </table>
-</div>
-
-<!-- Licencia -->
-<p align="center">
-  <samp>
-    Este repositorio está bajo la Licencia [MIT](LICENSE).
-  </samp>
-</p>
+  <div align="center">
+     <p><img src="https://github-readme-stats.vercel.app/api?username=deathemonic&show_icons=true&bg_color=212529&text_color=FFBEBE&title_color=DEFBFF&icon_color=DEFBFF&border_radius=20&border_color=FFBEBE"/><p>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deathemonic&langs_count=10&layout=compact&bg_color=212529&text_color=FFBEBE&title_color=DEFBFF&icon_color=DEFBFF&border_radius=20&border_color=FFBEBE"/></p>
+    <p><img src="https://github-readme-streak-stats.herokuapp.com?user=Deathemonic&hide_border=false&background=212529&border=FFBEBE&stroke=FFBEBE&ring=FF8E8E&fire=FF8E8E&currStreakNum=DEFBFF&sideNums=DEFBFF&currStreakLabel=FFBEBE&sideLabels=FFBEBE&dates=FFBEBE"/></p>
+    <p><img src="https://komarev.com/ghpvc/?username=deathemonic&label=Profile%20Views&color=212529&style=for-the-badge"/></p>
+  </div>
+</details>
