@@ -20,8 +20,8 @@
 
 <p align="center">
   <a href="https://github.com/hayyrs66">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayyrs66&layout=compact&theme=omni&custom_title=My%20Languages&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=F787DAFF" style="margin-right: 120px;" />
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=hayyrs66&show_icons=true&count_private=true&hide=stars&bg_color=0D1117&title_color=F787DAFF&icon_color=F787DAFF&text_color=FFFFFF&custom_title=GitHub%20Stats"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayyrs66&layout=compact&theme=omni&custom_title=My%20Languages&bg_color=0D1117&title_color=F787DAFF&text_color=FFFFFF&border_color=F787DAFF" style="margin-right: 120px;" />
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=hayyrs66&show_icons=true&count_private=true&hide=stars&bg_color=0D1117&title_color=F787DAFF&icon_color=F787DAFF&text_color=FFFFFF&border_color=F787DAFF&custom_title=GitHub%20Stats"/>
   </a>
 </p>
 
