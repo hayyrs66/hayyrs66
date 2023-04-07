@@ -1,70 +1,36 @@
-<!-- Rxyhn's Aesthetic GitHub Profile -->
-<div align="justify">
+<h1 align="center">
+  <img src="https://i.imgur.com/tfwvTcW.gif" width="30px"> Bienvenido a mi Repositorio <img src="https://i.imgur.com/tfwvTcW.gif" width="30px">
+</h1>
 
-<!-- Profile -->
-<p align="left"><strong><samp>「</samp></strong></p>
-  <p align="center">
-    <samp>
-      <b>
-        Hello There
-      <br>
-        I'm Rxyhn, a Student, I like Penguins and Apples, but I don't like Windows.
-      </b>
-      <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
-      <br>
-      <b>
-        ~ Rayhan Kafi Pratama ~
-      </b>
-    </samp>
-  </p>
-<p align="right"><strong><samp>」</samp></strong></p>
-
-<br>
-
-<details>
-<summary><samp><b>More Info</b></samp></summary>
-
-<h2></h2><br>
-
-<!-- Contact Me -->
 <p align="center">
-  <samp>
-    [<a href="https://twitter.com/rxxxyhn">twitter</a>]
-    [<a href="https://instagram.com/rxyyyhn">instagram</a>]
-    [<a href="mailto:rxyhn.dev@gmail.com">e-mail</a>]
-  </samp>
+  <img src="https://img.shields.io/github/stars/USERNAME/REPO_NAME.svg?style=for-the-badge" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/forks/USERNAME/REPO_NAME.svg?style=for-the-badge" alt="GitHub forks" />
+  <img src="https://img.shields.io/github/issues/USERNAME/REPO_NAME.svg?style=for-the-badge" alt="GitHub issues" />
+  <img src="https://img.shields.io/github/license/USERNAME/REPO_NAME.svg?style=for-the-badge" alt="GitHub license" />
 </p>
 
-<h2></h2><br>
-
-<!-- Profile Views Badge -->
 <p align="center">
-  <samp>
-  <a href="#--------">
-    <img src="https://komarev.com/ghpvc/?username=rxyhn&label=Profile+Views&color=grey" alt="profile views" /> 
-  </a>
-  </samp>
+  ¡Gracias por visitar mi repositorio! Este es un lugar donde comparto mis proyectos y contribuciones a la comunidad. Siéntete libre de explorar y clonar cualquier proyecto que te guste.
 </p>
 
-<!-- Github Trophy -->
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="https://github-trophies.vercel.app/?username=rxyhn&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=nord"></a></td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://i.imgur.com/Nj7t8eE.gif" width="250px" />
+</p>
 
-<!-- Github Stats -->
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rxyhn&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
-      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxyhn&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
-    </tr>
-  </table>
-</div>
+---
 
-</details>
-</div>
+<p align="center">
+  <img src="https://i.imgur.com/5CmZ5jK.gif" width="40px"> Aquí hay algunos proyectos en los que estoy trabajando actualmente <img src="https://i.imgur.com/5CmZ5jK.gif" width="40px">
+</p>
+
+| Proyecto | Descripción |
+| --- | --- |
+| [PROYECTO 1](https://github.com/USERNAME/PROYECTO_1) | Descripción del proyecto 1 |
+| [PROYECTO 2](https://github.com/USERNAME/PROYECTO_2) | Descripción del proyecto 2 |
+| [PROYECTO 3](https://github.com/USERNAME/PROYECTO_3) | Descripción del proyecto 3 |
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/MIaRlKw.gif" width="30px"> ¡Gracias por visitar mi repositorio! <img src="https://i.imgur.com/MIaRlKw.gif" width="30px">
+</p>
