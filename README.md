@@ -9,7 +9,7 @@
       <b>
         Hi Coders
       <br>
-        I'm Ricardo, a Student. Passionate about code and lover of Linux
+        I'm Ricardo, a Student. Passionate about code and linux lover.
       </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=Welcome+to+my+GitHub+profile!">
