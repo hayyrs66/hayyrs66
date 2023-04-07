@@ -17,7 +17,7 @@
   </p>
 <p align="right"><strong><samp style="font-family: Roboto, sans-serif;">」</samp></strong></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayyrs66&layout=compact&theme=omni&custom_title=My%20Languages&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=F787DAFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayyrs66&layout=compact&theme=omni&custom_title=My%20Languages&bg_color=0D1117&title_color=F787DAFF&text_color=FFFFFF&border_color=F787DAFF)
 
 
 
