@@ -6,6 +6,7 @@
         Hi Coders
       <br>
         I'm Ricardo. Passionate coder and linux lover.
+        <br>
         Student at URL studying computer engineering.
       </b>
       <br>
