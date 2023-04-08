@@ -6,6 +6,7 @@
         Hi Coders
       <br>
         I'm Ricardo. Passionate coder and linux lover.
+        Student at URL studying computer engineering.
       </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=F787DAFF&center=true&width=410&height=45&lines=Welcome+to+my+GitHub+profile!">
@@ -24,10 +25,6 @@
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=hayyrs66&show_icons=true&count_private=true&hide=stars&bg_color=0D1117&title_color=F787DAFF&icon_color=F787DAFF&text_color=FFFFFF&border_color=F787DAFF&custom_title=GitHub%20Stats"/>
   </a>
 </p>
-
-
-
-
 
 
 
