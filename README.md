@@ -3,7 +3,6 @@
   <p align="center">
     <samp>
       <b>
-        Hi Coders
       <br>
         I'm Ricardo. Passionate coder and linux lover.
         <br>
