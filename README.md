@@ -23,7 +23,7 @@
               My Daily:
             <br>
             <br>
-            <image src="https://img.shields.io/badge/-next-000000?style=flat&logo=next">
+            <image src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js">
           </b>
             </samp>
           </p>
