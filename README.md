@@ -17,7 +17,7 @@
     </samp>
           <br>
   </p>
-          <p>
+          <p align="center">
             <samp>    
           <b>
               My Daily:
