@@ -16,10 +16,13 @@
       </b>
     </samp>
           <br>
+  </p>
+
+          <p>
           <b>
               I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
           </b>
-  </p>
+          </p>
 <p align="right"><strong><samp style="font-family: Roboto, sans-serif;">」</samp></strong></p>
 
 
