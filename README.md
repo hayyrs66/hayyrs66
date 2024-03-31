@@ -24,6 +24,7 @@
             <br>
             <br>
             <image src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js">
+            <image src="https://img.shields.io/badge/-React-000000?style=flat&logo=React">
           </b>
             </samp>
           </p>
