@@ -20,7 +20,9 @@
           <p>
             <samp>    
           <b>
-              I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+              Daily:
+            <br>
+            <image src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5">
           </b>
             </samp>
           </p>
