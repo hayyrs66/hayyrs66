@@ -23,12 +23,14 @@
               My Daily:
             <br>
             <br>
-            <image src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js">
-                    <image src="https://img.shields.io/badge/-Astro-000000?style=flat&logo=astro">
-            <image src="https://img.shields.io/badge/-React-000000?style=flat&logo=React">
-              <image src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript">
-              <image src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript">
-                 <image src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust">
+                <image src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js">
+                <image src="https://img.shields.io/badge/-Astro-000000?style=flat&logo=astro">
+                <image src="https://img.shields.io/badge/-React-000000?style=flat&logo=React">
+                <image src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript">
+                <image src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript">
+                <image src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust">
+                <image src="https://img.shields.io/badge/-CSS-000000?style=flat&logo=css">
+                <image src="https://img.shields.io/badge/-Tailwindcss-000000?style=flat&logo=tailwind">
           </b>
             </samp>
           </p>
