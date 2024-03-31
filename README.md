@@ -4,13 +4,13 @@
     <samp>
       <b>
       <br>
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=F787DAFF&center=true&width=410&height=45&lines=Welcome+to+my+GitHub+profile!">
+      <br>
+      <br>
         I'm Ricardo. Passionate coder and linux lover.
         <br>
         Studying computer engineering at URL
       </b>
-      <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=F787DAFF&center=true&width=410&height=45&lines=Welcome+to+my+GitHub+profile!">
-      <br>
       <b>
          ~ Слава Україні ~
       </b>
