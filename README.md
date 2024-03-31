@@ -18,6 +18,7 @@
   </p>
 <p align="right"><strong><samp style="font-family: Roboto, sans-serif;">」</samp></strong></p>
 
+I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 
 
 
