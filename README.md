@@ -28,8 +28,8 @@
                 <image src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript">
                 <image src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=TypeScript">
                 <image src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust">
-                <image src="https://img.shields.io/badge/-CSS-000000?style=flat&logo=css">
-                <image src="https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwind-css3">
+                <image src="https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3">
+                <image src="https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwind-css">
           </b>
             </samp>
           </p>
