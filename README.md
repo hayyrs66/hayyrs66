@@ -20,7 +20,3 @@
 <p align="right"><strong><samp style="font-family: Roboto, sans-serif;">」</samp></strong></p>
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5y8glehxoirmdeb5jt2gntyuc&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
-
-
